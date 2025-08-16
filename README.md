@@ -1,2 +1,5 @@
 # goexe
 一个简单的命令行工具，用于在使用Go构建的Windows可执行文件中嵌入常用资源
+
+# 安装go-winres命令，请运行:
+go install github.com/tc-hib/go-winres@latest
